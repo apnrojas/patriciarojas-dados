@@ -1,9 +1,9 @@
 {
-  "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/6b25dac5ae006162ce239df41ec68719",
+  "@context": "https://iiif.io/api/image/3/context.json",
+  "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/6b25dac5ae006162ce239df41ec68719",
   "type": "ImageService3",
   "profile": "level0",
-  "protocol": "http://iiif.io/api/image",
+  "protocol": "https://iiif.io/api/image",
   "tiles": [
     {
       "scaleFactors": [

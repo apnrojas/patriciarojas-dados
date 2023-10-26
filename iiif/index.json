@@ -1,6 +1,6 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://cobatas-1949-1958-iiif.vercel.app/index.json",
+    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "id": "https://cobatas-1949-1958-iiif.vercel.app/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/6b25dac5ae006162ce239df41ec68719/full/225,300/0/default.jpg",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/6b25dac5ae006162ce239df41ec68719/full/225,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/manifest.json",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_03/manifest.json",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_03/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/manifest.json",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_01/manifest.json",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_01/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_00/manifest.json",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_00/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

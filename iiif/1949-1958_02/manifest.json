@@ -1,6 +1,6 @@
 {
-    "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/manifest.json",
+    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/0bacd6e4abbea31bcc5c6fe84550ed06/full/225,300/0/default.jpg",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/0bacd6e4abbea31bcc5c6fe84550ed06/full/225,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -29,31 +29,31 @@
     ],
     "items": [
         {
-            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/canvas/0",
+            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/canvas/0",
             "type": "Canvas",
             "height": 2816,
             "width": 2112,
             "items": [
                 {
-                    "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/canvas/0/annotation-page",
+                    "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/annotation/0",
+                            "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/canvas/0",
+                            "target": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/canvas/0",
                             "body": {
-                                "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/0bacd6e4abbea31bcc5c6fe84550ed06/full/1500,2000/0/default.jpg",
+                                "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/0bacd6e4abbea31bcc5c6fe84550ed06/full/1500,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1500,
                                 "service": [
                                     {
-                                        "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/0bacd6e4abbea31bcc5c6fe84550ed06",
+                                        "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/0bacd6e4abbea31bcc5c6fe84550ed06",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "https://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
