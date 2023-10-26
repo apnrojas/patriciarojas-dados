@@ -1,0 +1,66 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "http://cobatas-1949-1958-iiif.vercel.app/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "COB atas 1949-1958"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/6b25dac5ae006162ce239df41ec68719/full/225,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 225
+        }
+    ],
+    "items": [
+        {
+            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "49_58 002_02-verso"
+                ]
+            }
+        },
+        {
+            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_03/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "49_58 002_01-recto"
+                ]
+            }
+        },
+        {
+            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_02/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "49_58 001_02-verso"
+                ]
+            }
+        },
+        {
+            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_01/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "49_58 001_01-recto"
+                ]
+            }
+        },
+        {
+            "id": "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_00/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "49_58 000_abertura"
+                ]
+            }
+        }
+    ]
+}
