@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://cobatas-1949-1958-iiif.vercel.app/index.json",
     "type": "Collection",
     "label": {

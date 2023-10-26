@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/manifest.json",
     "type": "Manifest",
     "label": {
@@ -53,7 +53,7 @@
                                     {
                                         "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_04/6b25dac5ae006162ce239df41ec68719",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }

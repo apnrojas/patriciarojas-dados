@@ -1,5 +1,5 @@
 {
-    "@context": "https://iiif.io/api/presentation/3/context.json",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_01/manifest.json",
     "type": "Manifest",
     "label": {
@@ -53,7 +53,7 @@
                                     {
                                         "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_01/f74d819efcab8ba2f3dd638425eac2d1",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
@@ -87,7 +87,7 @@
                                     {
                                         "id": "https://cobatas-1949-1958-iiif.vercel.app/1949-1958_01/e10f6e8477ec852c5b6a3aea5c76d796",
                                         "type": "ImageService3",
-                                        "profile": "https://iiif.io/api/image/3/level0.json"
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
                             }
